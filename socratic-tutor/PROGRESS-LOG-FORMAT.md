@@ -19,9 +19,9 @@ Lives in `education-progress/` in the working directory, one file per topic, nam
 ## Rules
 
 - **One file per topic.** A new subject is a new file, not a new section. Within a topic, concepts are bullets under *Covered*.
-- **Covered grows append-only.** Add a concept the moment its check passes (the quick check before moving on, per SKILL.md). Don't rewrite or delete past entries — they are the proof of what's solid.
+- **Covered grows append-only.** Add a concept the moment its check passes — quick-check questions *and* the mini explain-back in the learner's own words, per SKILL.md. A concept the learner could answer but not reconstruct isn't covered yet. Don't rewrite or delete past entries — they are the proof of what's solid.
 - **Resume here is a single live pointer.** Rewrite it after each concept closes and at session end, so stopping mid-topic loses nothing. Name where you stopped *and* the next probe to open — enough that a cold start picks up without re-asking.
-- **Record understanding, not activity.** "Derived that one turn moves 8 pieces at once" is signal; "we talked about turns" is not.
-- **Mark the topic completed** in the H1 only after its closing mini-test passes cleanly. Until then it stays *in progress* — that's how the next session knows which file to resume.
+- **Record understanding, not activity.** "Derived that one turn moves 8 pieces at once" is signal; "we talked about turns" is not. The best signal is what the learner *reconstructed* in their own explain-back, not what you told them.
+- **Mark the topic completed** in the H1 only after both closing gates pass cleanly — the full explain-back reconstructs the core *and* the targeted questions land (per SKILL.md). Until then it stays *in progress* — that's how the next session knows which file to resume.
 
 This log is the *what* (coverage); the profile is the *how* (learning style) — keep them in separate files.
