@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Per-learner state generated when a skill runs — never publish
+LEARNER-PROFILE.md
