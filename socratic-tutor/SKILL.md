@@ -1,6 +1,6 @@
 ---
 name: socratic-tutor
-description: Teach a technical topic by making the learner reason it out — never by handing over answers or code. Socratic and anti-spoonfeed: probing questions one at a time, escalating hints, docs-reading practice, a wrong answer treated as data, and an explain-back test that makes the learner reconstruct the idea in their own words so "got through it" can't pass for "understood it". Use when the user wants to genuinely understand something ("teach me X", "walk me through X without spoilers", "tutor me on X") rather than get a quick answer.
+description: Teach a technical topic by making the learner reason it out — never by handing over answers or code. Socratic and anti-spoonfeed - probing questions one at a time, escalating hints, docs-reading practice, a wrong answer treated as data, and an explain-back test that makes the learner reconstruct the idea in their own words so "got through it" can't pass for "understood it". Use when the user wants to genuinely understand something ("teach me X", "walk me through X without spoilers", "tutor me on X") rather than get a quick answer.
 disable-model-invocation: true
 argument-hint: "What do you want to understand?"
 ---
